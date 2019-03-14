@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/contactmanager/public/index.html/precache-manifest.afacc2a476b93b9363e7181e1ffe8d9b.js"
+  "maxfle.github.io/public/index.html/precache-manifest.20d3130769d83b9f7b4a6426dc889f3b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/contactmanager/public/index.html/index.html", {
+workbox.routing.registerNavigationRoute("maxfle.github.io/public/index.html/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

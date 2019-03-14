@@ -1,15 +1,15 @@
 {
-  "main.css": "/contactmanager/public/index.html/static/css/main.11d832ee.chunk.css",
-  "main.js": "/contactmanager/public/index.html/static/js/main.2e5e115b.chunk.js",
-  "main.js.map": "/contactmanager/public/index.html/static/js/main.2e5e115b.chunk.js.map",
-  "runtime~main.js": "/contactmanager/public/index.html/static/js/runtime~main.e6ed9b47.js",
-  "runtime~main.js.map": "/contactmanager/public/index.html/static/js/runtime~main.e6ed9b47.js.map",
-  "static/css/2.f7709b6b.chunk.css": "/contactmanager/public/index.html/static/css/2.f7709b6b.chunk.css",
-  "static/js/2.f9e94ef0.chunk.js": "/contactmanager/public/index.html/static/js/2.f9e94ef0.chunk.js",
-  "static/js/2.f9e94ef0.chunk.js.map": "/contactmanager/public/index.html/static/js/2.f9e94ef0.chunk.js.map",
-  "index.html": "/contactmanager/public/index.html/index.html",
-  "precache-manifest.afacc2a476b93b9363e7181e1ffe8d9b.js": "/contactmanager/public/index.html/precache-manifest.afacc2a476b93b9363e7181e1ffe8d9b.js",
-  "service-worker.js": "/contactmanager/public/index.html/service-worker.js",
-  "static/css/2.f7709b6b.chunk.css.map": "/contactmanager/public/index.html/static/css/2.f7709b6b.chunk.css.map",
-  "static/css/main.11d832ee.chunk.css.map": "/contactmanager/public/index.html/static/css/main.11d832ee.chunk.css.map"
+  "main.css": "maxfle.github.io/public/index.html/static/css/main.11d832ee.chunk.css",
+  "main.js": "maxfle.github.io/public/index.html/static/js/main.5a28b83b.chunk.js",
+  "main.js.map": "maxfle.github.io/public/index.html/static/js/main.5a28b83b.chunk.js.map",
+  "runtime~main.js": "maxfle.github.io/public/index.html/static/js/runtime~main.cd44ebbb.js",
+  "runtime~main.js.map": "maxfle.github.io/public/index.html/static/js/runtime~main.cd44ebbb.js.map",
+  "static/css/2.f7709b6b.chunk.css": "maxfle.github.io/public/index.html/static/css/2.f7709b6b.chunk.css",
+  "static/js/2.f9e94ef0.chunk.js": "maxfle.github.io/public/index.html/static/js/2.f9e94ef0.chunk.js",
+  "static/js/2.f9e94ef0.chunk.js.map": "maxfle.github.io/public/index.html/static/js/2.f9e94ef0.chunk.js.map",
+  "index.html": "maxfle.github.io/public/index.html/index.html",
+  "precache-manifest.20d3130769d83b9f7b4a6426dc889f3b.js": "maxfle.github.io/public/index.html/precache-manifest.20d3130769d83b9f7b4a6426dc889f3b.js",
+  "service-worker.js": "maxfle.github.io/public/index.html/service-worker.js",
+  "static/css/2.f7709b6b.chunk.css.map": "maxfle.github.io/public/index.html/static/css/2.f7709b6b.chunk.css.map",
+  "static/css/main.11d832ee.chunk.css.map": "maxfle.github.io/public/index.html/static/css/main.11d832ee.chunk.css.map"
 }
