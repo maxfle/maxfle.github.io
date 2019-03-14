@@ -6,7 +6,7 @@ import EditContact from './components/contacts/EditContact';
 import Header from './components/layout/Header';
 import About from './components/pages/About';
 import NotFound from './components/pages/NotFound';
-// import Test from './components/test/Test';
+import Test from './components/test/Test';
 
 import { Provider } from './Context';
 
